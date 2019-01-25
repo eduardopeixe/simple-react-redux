@@ -1,4 +1,4 @@
-const Hello = React.Component({
+const Hello = createReactClass({
   render: function() {
     return <h1>Hello, World!</h1>;
   }
