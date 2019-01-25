@@ -1,0 +1,29 @@
+{
+  "name": "simple-react-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardopeixe/simple-react-redux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardopeixe/simple-react-redux/issues"
+  },
+  "homepage": "https://github.com/eduardopeixe/simple-react-redux#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "react": "^16.7.0"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "create-react-class": "^15.6.3"
+  }
+}
